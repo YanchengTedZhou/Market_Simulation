@@ -1,3 +1,3 @@
-# Market_Simulation
+# Simulating Asset Returns Capstone Project
 
-# Introduction
+### Introduction
