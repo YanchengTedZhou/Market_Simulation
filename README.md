@@ -9,4 +9,4 @@ The goal of this project was to simulate asset returns with focus on regime swit
 ## Data
 
 Two datasets are primarily used in our simulations
-### • S&P500:
+#### • S&P500:
